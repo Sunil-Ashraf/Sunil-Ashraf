@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunil Ashraf
 
-<!--
-**Sunil-Ashraf/Sunil-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 C# / .NET Developer | Backend Engineer | Cloud Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate **C# Developer** with experience in building scalable, secure, and high-performance applications using modern Microsoft technologies and cloud platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔹 Skilled in **C#**, **.NET Core**, **ASP.NET MVC**, **Entity Framework**
+- 🔹 Strong understanding of **OOP**, **Design Patterns**, and **Clean Architecture**
+- 🔹 Experience with **REST APIs**, **SQL Server**, **LINQ**, and Cloud Deployment
+- 🔹 Passionate about writing clean, maintainable, and efficient code
+- 🔹 Always learning new technologies and improving development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,visualstudio,git,github,postman,docker" />
+</p>
+
+### ☁️ Cloud Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+```text
+💼 Repositories: Growing Every Day
+🔥 Contributions: Active Learner
+📚 Focus: .NET + Cloud Development
+🚀 Goal: Senior Software Engineer
